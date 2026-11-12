@@ -2,6 +2,7 @@
   "name": "pepkio-doubling-time-tracker",
   "version": "0.1.0",
   "description": "Calculate cell or microbial doubling time and growth rate from counts, OD600, or confluency via the Pepkio REST API.",
+  "readme": "README_NPM.md",
   "type": "module",
   "engines": {
     "node": ">=18"
@@ -45,8 +46,10 @@
     "growth-kinetics",
     "od600",
     "confluency",
+    "generation-time",
     "microbiology",
     "tissue-culture",
+    "exponential-growth",
     "pepkio",
     "laboratory-tools",
     "life-sciences",
